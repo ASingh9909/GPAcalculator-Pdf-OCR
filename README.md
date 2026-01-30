@@ -1,5 +1,9 @@
 # PDF GPA Calculator with OCR
 
+[![Built with Antigravity](https://img.shields.io/badge/Built%20with-Antigravity-blue)](https://antigravity.dev)
+
+> 🤖 This project was built with [Antigravity](https://antigravity.dev) - Google DeepMind's AI coding assistant.
+
 This is a web application that extracts student transcript data from PDF files (including scanned image-based PDFs using OCR) and calculates the GPA on a 5.0 scale.
 
 ## Features
